@@ -46,6 +46,11 @@ public class User {
 	}
 
 
+	public User(int int1, String string, String string2) {
+		// TODO Auto-generated constructor stub
+	}
+
+
 	public int getId() {
 		return id;
 	}
@@ -168,6 +173,12 @@ public class User {
 
 	public Set<Adresse> getAdresse() {
 		return adresse;
+	}
+
+
+	public int getUser() {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 
 

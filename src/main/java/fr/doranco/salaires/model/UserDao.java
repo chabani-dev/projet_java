@@ -119,7 +119,8 @@ public class UserDao implements IUserDao {
 		
 
 	}
-
+	
+	
 	@Override
 	public void deleteUser(int id) throws Exception {
 		
@@ -151,7 +152,6 @@ public class UserDao implements IUserDao {
 	              user.setId(rs.getInt("nom"));
 	              user.setId(rs.getInt("prenom"));
 	              user.setId(rs.getInt("age"));
-
 	              listUser.add(user);
 	        }
 	        

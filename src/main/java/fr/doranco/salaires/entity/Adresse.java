@@ -55,6 +55,10 @@ public class Adresse {
 		return "Adresse [id=" + id + ", numero=" + numero + ", rue=" + rue + ", ville=" + ville + ", codePostal="
 				+ codePostal + "]";
 	}
+	public String getAdresse() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 
 }
