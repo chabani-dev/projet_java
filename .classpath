@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-1.8"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-8.0.20 (1).jar"/>
+	<classpathentry kind="lib" path="Lib/protobuf-java-3.6.1 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
